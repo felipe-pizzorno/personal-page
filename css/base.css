@@ -1,0 +1,15 @@
+#namedDiv {
+    width: 100vw;
+    height: 100vh;
+}
+
+body {
+    font-family: "Space Mono", monospace;
+    letter-spacing: 8px;
+    font-size: 30px;
+    color: black;
+}
+
+.hacker-style {
+    text-shadow: 2px 2px 0px rgba(100, 0, 0, 0.5), -2px -2px 0px rgba(0, 100, 0, 0.5); /* Red and blue shadow offsets */
+}
